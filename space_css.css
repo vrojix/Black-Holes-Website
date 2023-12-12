@@ -1,0 +1,102 @@
+body {
+    margin: 0px;
+
+}
+
+.background {
+
+    background-image: url("3d-abstract-space-sky-with-stars-nebula.jpg");
+}
+.background2{
+
+    background-image: url("space_background_with_eclipse_planet_3009.jpg");
+
+}
+.header_div {
+    padding: 50px;
+    text-align:left;
+    position:static;
+    font-size: 50pt;
+    width: 500px;
+    color: #00000000;
+}
+
+.header-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    background: -webkit-linear-gradient(rgb(255, 255, 255),purple);      
+    -webkit-background-clip: text;
+}
+
+.underheader {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color:white;
+    padding: 20px;
+    height: auto;
+
+}
+.main_win{
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
+    margin:1px;
+    padding: 2%;
+    width: 500px;
+    margin: 2%;
+    background: -webkit-linear-gradient(rgb(201, 70, 179),rgb(252, 252, 252)); 
+    -webkit-background-clip: text;
+
+}
+
+.main_text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    float: left;
+    text-align: left;
+    font-size: medium;
+    color: rgba(212, 141, 212, 0.623);
+
+}
+
+.sidebar {
+    background: linear-gradient(#00000023,#80008000);
+    
+    float: right;
+    width: 15%;
+    height:100vh;
+    display: auto;
+    color: white;
+}
+
+
+.prebar {
+    background: linear-gradient(#00000023,#80008000);
+    position: relative;
+    float: right;
+    width: 4%;
+    height:100vh;
+    display: auto;
+    color: white;
+    border: 0px solid;
+    border-top-left-radius: 10pt;
+
+}
+
+.sidebar_buttons {
+    display: block;
+    height: 10%;
+    width: auto;
+    transition: transform 0.3s, filter 0s;
+    
+
+}
+
+
+
+.picture_button {
+    width: 1%;
+    background-color: #00000000; 
+    border-color: #00000000;
+    
+
+}
